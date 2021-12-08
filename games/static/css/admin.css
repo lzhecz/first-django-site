@@ -1,0 +1,11 @@
+#header, .module caption {
+    background: #2d4152;
+}
+
+div.breadcrumbs {
+    background: #2d4152;
+}
+
+#branding h1, #branding h1 a:link, #branding h1 a:visited {
+    color: #73fde4;
+}
